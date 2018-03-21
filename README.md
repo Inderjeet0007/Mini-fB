@@ -36,9 +36,10 @@ After entering the above the registration is complete
 
 	-POST - Add a new status to the timeline.
  
-	-FRIEND [username] - Add a Friend to your list. 
-			- Accepts username of the friend as a parameter.
+	-FRIEND [rollno_of_student] - Add a Friend to your list. 
 
 -------- SECTION IV : Additional UserEnd Commands ---------
+
 -> CLS
+
 	- Clears the screen.
